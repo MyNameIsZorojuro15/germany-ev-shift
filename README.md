@@ -17,17 +17,17 @@ flowchart LR
     C --> D["src/analysis.py (DuckDB SQL Cohort & Index Queries)"]
     D --> E["outputs/results.json & CSV Tables"]
     E --> F["src/figures.py & docs/index.html"]
-    C --> G["tests/test_kba.py (8 Invariant Checks)"]
+    C --> G["tests/test_parse.py (8 tests)"]
 ```
 
 ## Verification (`pytest`)
 
-`tests/test_kba.py` checks 8 data-quality invariants before any chart or metric is produced:
-1. All 45 monthly files (2023-01 to 2026-09) are present with zero missing months.
-2. Brand rows sum exactly to the official KBA `INSGESAMT` line in every single month.
-3. Federal-state rows sum to the official national total.
-4. BEV and PHEV counts never exceed total registrations for any brand or state.
-5. Group mappings cover all major OEMs with zero duplicate brand assignments.
+`tests/test_parse.py` runs 8 tests before any chart or metric is trusted:
+1. Brand rows add up exactly to KBA's own `INSGESAMT` line (total, BEV and PHEV) in the September 2026 file.
+2. Known values from that file match KBA FZ 8.4 (BMW total, BEV and PHEV; national BEV count; Bavaria's BEV count).
+3. Federal-state rows add up to the national total.
+4. In every downloaded month (2023-01 to 2026-09), brand rows add up to the KBA total for all cars and for BEV.
+5. Number parsing handles KBA's formats (`-`, thousands dots, empty cells, plain numbers): 4 cases.
 
 ## Reproduce
 
