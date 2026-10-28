@@ -1,0 +1,599 @@
+{
+ "source": "Kraftfahrt-Bundesamt (KBA), FZ 8, monthly new passenger-car registrations; Datenlizenz Deutschland – Namensnennung – Version 2.0",
+ "months": [
+  "2023-01",
+  "2026-09"
+ ],
+ "ytd_window": "January–09 2026 vs 2025",
+ "market_ytd": {
+  "2025": {
+   "total": 2110348.0,
+   "bev": 382202.0,
+   "bev_share": 18.1
+  },
+  "2026": {
+   "total": 2221798.0,
+   "bev": 604144.0,
+   "bev_share": 27.2
+  }
+ },
+ "groups_ytd": [
+  {
+   "grp": "Volkswagen Group",
+   "total": 875544.0,
+   "bev": 207586.0,
+   "phev": 104732.0,
+   "bev_share_own": 23.7,
+   "share_total_market": 39.41,
+   "share_bev_market": 34.36,
+   "bev_index": 0.87
+  },
+  {
+   "grp": "Stellantis",
+   "total": 257541.0,
+   "bev": 56398.0,
+   "phev": 5128.0,
+   "bev_share_own": 21.9,
+   "share_total_market": 11.59,
+   "share_bev_market": 9.34,
+   "bev_index": 0.81
+  },
+  {
+   "grp": "BMW Group",
+   "total": 222346.0,
+   "bev": 63819.0,
+   "phev": 24998.0,
+   "bev_share_own": 28.7,
+   "share_total_market": 10.01,
+   "share_bev_market": 10.56,
+   "bev_index": 1.06
+  },
+  {
+   "grp": "Mercedes-Benz",
+   "total": 201490.0,
+   "bev": 50712.0,
+   "phev": 28987.0,
+   "bev_share_own": 25.2,
+   "share_total_market": 9.07,
+   "share_bev_market": 8.39,
+   "bev_index": 0.93
+  },
+  {
+   "grp": "Other",
+   "total": 153285.0,
+   "bev": 38598.0,
+   "phev": 17047.0,
+   "bev_share_own": 25.2,
+   "share_total_market": 6.9,
+   "share_bev_market": 6.39,
+   "bev_index": 0.93
+  },
+  {
+   "grp": "Hyundai-Kia",
+   "total": 121447.0,
+   "bev": 47267.0,
+   "phev": 4367.0,
+   "bev_share_own": 38.9,
+   "share_total_market": 5.47,
+   "share_bev_market": 7.82,
+   "bev_index": 1.43
+  },
+  {
+   "grp": "Renault",
+   "total": 105633.0,
+   "bev": 28794.0,
+   "phev": 821.0,
+   "bev_share_own": 27.3,
+   "share_total_market": 4.75,
+   "share_bev_market": 4.77,
+   "bev_index": 1.0
+  },
+  {
+   "grp": "Ford",
+   "total": 74630.0,
+   "bev": 19823.0,
+   "phev": 11796.0,
+   "bev_share_own": 26.6,
+   "share_total_market": 3.36,
+   "share_bev_market": 3.28,
+   "bev_index": 0.98
+  },
+  {
+   "grp": "Toyota-Lexus",
+   "total": 52662.0,
+   "bev": 7133.0,
+   "phev": 3322.0,
+   "bev_share_own": 13.5,
+   "share_total_market": 2.37,
+   "share_bev_market": 1.18,
+   "bev_index": 0.5
+  },
+  {
+   "grp": "Tesla",
+   "total": 44810.0,
+   "bev": 44810.0,
+   "phev": 0.0,
+   "bev_share_own": 100.0,
+   "share_total_market": 2.02,
+   "share_bev_market": 7.42,
+   "bev_index": 3.68
+  },
+  {
+   "grp": "BYD",
+   "total": 42788.0,
+   "bev": 16355.0,
+   "phev": 26432.0,
+   "bev_share_own": 38.2,
+   "share_total_market": 1.93,
+   "share_bev_market": 2.71,
+   "bev_index": 1.41
+  },
+  {
+   "grp": "Volvo-Polestar",
+   "total": 42259.0,
+   "bev": 14329.0,
+   "phev": 15684.0,
+   "bev_share_own": 33.9,
+   "share_total_market": 1.9,
+   "share_bev_market": 2.37,
+   "bev_index": 1.25
+  },
+  {
+   "grp": "MG (SAIC)",
+   "total": 27363.0,
+   "bev": 8520.0,
+   "phev": 4175.0,
+   "bev_share_own": 31.1,
+   "share_total_market": 1.23,
+   "share_bev_market": 1.41,
+   "bev_index": 1.15
+  }
+ ],
+ "groups_prev_ytd": [
+  {
+   "grp": "Volkswagen Group",
+   "total": 878770.0,
+   "bev": 169465.0,
+   "phev": 88678.0,
+   "bev_share_own": 19.3,
+   "share_total_market": 41.64,
+   "share_bev_market": 44.34,
+   "bev_index": 1.06
+  },
+  {
+   "grp": "Stellantis",
+   "total": 239646.0,
+   "bev": 27679.0,
+   "phev": 4806.0,
+   "bev_share_own": 11.5,
+   "share_total_market": 11.36,
+   "share_bev_market": 7.24,
+   "bev_index": 0.64
+  },
+  {
+   "grp": "BMW Group",
+   "total": 206942.0,
+   "bev": 45081.0,
+   "phev": 26591.0,
+   "bev_share_own": 21.8,
+   "share_total_market": 9.81,
+   "share_bev_market": 11.8,
+   "bev_index": 1.2
+  },
+  {
+   "grp": "Mercedes-Benz",
+   "total": 194323.0,
+   "bev": 26309.0,
+   "phev": 32728.0,
+   "bev_share_own": 13.5,
+   "share_total_market": 9.21,
+   "share_bev_market": 6.88,
+   "bev_index": 0.75
+  },
+  {
+   "grp": "Other",
+   "total": 134910.0,
+   "bev": 12289.0,
+   "phev": 14946.0,
+   "bev_share_own": 9.1,
+   "share_total_market": 6.39,
+   "share_bev_market": 3.22,
+   "bev_index": 0.5
+  },
+  {
+   "grp": "Hyundai-Kia",
+   "total": 116716.0,
+   "bev": 31146.0,
+   "phev": 6718.0,
+   "bev_share_own": 26.7,
+   "share_total_market": 5.53,
+   "share_bev_market": 8.15,
+   "bev_index": 1.47
+  },
+  {
+   "grp": "Renault",
+   "total": 97240.0,
+   "bev": 13021.0,
+   "phev": 1460.0,
+   "bev_share_own": 13.4,
+   "share_total_market": 4.61,
+   "share_bev_market": 3.41,
+   "bev_index": 0.74
+  },
+  {
+   "grp": "Ford",
+   "total": 83058.0,
+   "bev": 13256.0,
+   "phev": 10357.0,
+   "bev_share_own": 16.0,
+   "share_total_market": 3.94,
+   "share_bev_market": 3.47,
+   "bev_index": 0.88
+  },
+  {
+   "grp": "Toyota-Lexus",
+   "total": 65608.0,
+   "bev": 5223.0,
+   "phev": 5619.0,
+   "bev_share_own": 8.0,
+   "share_total_market": 3.11,
+   "share_bev_market": 1.37,
+   "bev_index": 0.44
+  },
+  {
+   "grp": "Volvo-Polestar",
+   "total": 48211.0,
+   "bev": 10329.0,
+   "phev": 19232.0,
+   "bev_share_own": 21.4,
+   "share_total_market": 2.28,
+   "share_bev_market": 2.7,
+   "bev_index": 1.18
+  },
+  {
+   "grp": "MG (SAIC)",
+   "total": 18261.0,
+   "bev": 6413.0,
+   "phev": 1954.0,
+   "bev_share_own": 35.1,
+   "share_total_market": 0.87,
+   "share_bev_market": 1.68,
+   "bev_index": 1.94
+  },
+  {
+   "grp": "Tesla",
+   "total": 14845.0,
+   "bev": 14845.0,
+   "phev": 0.0,
+   "bev_share_own": 100.0,
+   "share_total_market": 0.7,
+   "share_bev_market": 3.88,
+   "bev_index": 5.52
+  },
+  {
+   "grp": "BYD",
+   "total": 11818.0,
+   "bev": 7146.0,
+   "phev": 4671.0,
+   "bev_share_own": 60.5,
+   "share_total_market": 0.56,
+   "share_bev_market": 1.87,
+   "bev_index": 3.34
+  }
+ ],
+ "swing": [
+  {
+   "grp": "Volkswagen Group",
+   "share_bev_market_prev": 44.34,
+   "share_bev_market": 34.36,
+   "bev_market_share_change_pp": -9.98,
+   "bev_growth_pct": 22.5
+  },
+  {
+   "grp": "BMW Group",
+   "share_bev_market_prev": 11.8,
+   "share_bev_market": 10.56,
+   "bev_market_share_change_pp": -1.24,
+   "bev_growth_pct": 41.6
+  },
+  {
+   "grp": "Hyundai-Kia",
+   "share_bev_market_prev": 8.15,
+   "share_bev_market": 7.82,
+   "bev_market_share_change_pp": -0.33,
+   "bev_growth_pct": 51.8
+  },
+  {
+   "grp": "Volvo-Polestar",
+   "share_bev_market_prev": 2.7,
+   "share_bev_market": 2.37,
+   "bev_market_share_change_pp": -0.33,
+   "bev_growth_pct": 38.7
+  },
+  {
+   "grp": "MG (SAIC)",
+   "share_bev_market_prev": 1.68,
+   "share_bev_market": 1.41,
+   "bev_market_share_change_pp": -0.27,
+   "bev_growth_pct": 32.9
+  },
+  {
+   "grp": "Ford",
+   "share_bev_market_prev": 3.47,
+   "share_bev_market": 3.28,
+   "bev_market_share_change_pp": -0.19,
+   "bev_growth_pct": 49.5
+  },
+  {
+   "grp": "Toyota-Lexus",
+   "share_bev_market_prev": 1.37,
+   "share_bev_market": 1.18,
+   "bev_market_share_change_pp": -0.19,
+   "bev_growth_pct": 36.6
+  },
+  {
+   "grp": "BYD",
+   "share_bev_market_prev": 1.87,
+   "share_bev_market": 2.71,
+   "bev_market_share_change_pp": 0.84,
+   "bev_growth_pct": 128.9
+  },
+  {
+   "grp": "Renault",
+   "share_bev_market_prev": 3.41,
+   "share_bev_market": 4.77,
+   "bev_market_share_change_pp": 1.36,
+   "bev_growth_pct": 121.1
+  },
+  {
+   "grp": "Mercedes-Benz",
+   "share_bev_market_prev": 6.88,
+   "share_bev_market": 8.39,
+   "bev_market_share_change_pp": 1.51,
+   "bev_growth_pct": 92.8
+  },
+  {
+   "grp": "Stellantis",
+   "share_bev_market_prev": 7.24,
+   "share_bev_market": 9.34,
+   "bev_market_share_change_pp": 2.1,
+   "bev_growth_pct": 103.8
+  },
+  {
+   "grp": "Other",
+   "share_bev_market_prev": 3.22,
+   "share_bev_market": 6.39,
+   "bev_market_share_change_pp": 3.17,
+   "bev_growth_pct": 214.1
+  },
+  {
+   "grp": "Tesla",
+   "share_bev_market_prev": 3.88,
+   "share_bev_market": 7.42,
+   "bev_market_share_change_pp": 3.54,
+   "bev_growth_pct": 201.9
+  }
+ ],
+ "brands_bev_share_ytd": [
+  {
+   "name": "XPENG",
+   "total": 7023.0,
+   "bev": 7023.0,
+   "bev_share_own": 100.0
+  },
+  {
+   "name": "TESLA",
+   "total": 44810.0,
+   "bev": 44810.0,
+   "bev_share_own": 100.0
+  },
+  {
+   "name": "SMART",
+   "total": 6631.0,
+   "bev": 6631.0,
+   "bev_share_own": 100.0
+  },
+  {
+   "name": "LEAPMOTOR",
+   "total": 16044.0,
+   "bev": 15128.0,
+   "bev_share_own": 94.3
+  },
+  {
+   "name": "KIA",
+   "total": 50047.0,
+   "bev": 24830.0,
+   "bev_share_own": 49.6
+  },
+  {
+   "name": "MINI",
+   "total": 32811.0,
+   "bev": 14694.0,
+   "bev_share_own": 44.8
+  },
+  {
+   "name": "RENAULT",
+   "total": 51348.0,
+   "bev": 20166.0,
+   "bev_share_own": 39.3
+  },
+  {
+   "name": "BYD",
+   "total": 42788.0,
+   "bev": 16355.0,
+   "bev_share_own": 38.2
+  },
+  {
+   "name": "PORSCHE",
+   "total": 21675.0,
+   "bev": 7774.0,
+   "bev_share_own": 35.9
+  },
+  {
+   "name": "HYUNDAI",
+   "total": 71400.0,
+   "bev": 22437.0,
+   "bev_share_own": 31.4
+  },
+  {
+   "name": "MG ROEWE",
+   "total": 27363.0,
+   "bev": 8520.0,
+   "bev_share_own": 31.1
+  },
+  {
+   "name": "SKODA",
+   "total": 186973.0,
+   "bev": 55996.0,
+   "bev_share_own": 29.9
+  },
+  {
+   "name": "CITROEN",
+   "total": 40696.0,
+   "bev": 11527.0,
+   "bev_share_own": 28.3
+  },
+  {
+   "name": "VOLVO",
+   "total": 38454.0,
+   "bev": 10524.0,
+   "bev_share_own": 27.4
+  },
+  {
+   "name": "FORD",
+   "total": 74630.0,
+   "bev": 19823.0,
+   "bev_share_own": 26.6
+  },
+  {
+   "name": "BMW",
+   "total": 189320.0,
+   "bev": 49083.0,
+   "bev_share_own": 25.9
+  },
+  {
+   "name": "AUDI",
+   "total": 153020.0,
+   "bev": 39525.0,
+   "bev_share_own": 25.8
+  },
+  {
+   "name": "SEAT",
+   "total": 117432.0,
+   "bev": 28267.0,
+   "bev_share_own": 24.1
+  },
+  {
+   "name": "SONSTIGE",
+   "total": 9601.0,
+   "bev": 2234.0,
+   "bev_share_own": 23.3
+  },
+  {
+   "name": "FIAT",
+   "total": 51272.0,
+   "bev": 11823.0,
+   "bev_share_own": 23.1
+  },
+  {
+   "name": "PEUGEOT",
+   "total": 46321.0,
+   "bev": 10560.0,
+   "bev_share_own": 22.8
+  },
+  {
+   "name": "MERCEDES",
+   "total": 194859.0,
+   "bev": 44081.0,
+   "bev_share_own": 22.6
+  },
+  {
+   "name": "OPEL",
+   "total": 105375.0,
+   "bev": 20675.0,
+   "bev_share_own": 19.6
+  },
+  {
+   "name": "VW",
+   "total": 396444.0,
+   "bev": 76024.0,
+   "bev_share_own": 19.2
+  },
+  {
+   "name": "NISSAN",
+   "total": 24686.0,
+   "bev": 4440.0,
+   "bev_share_own": 18.0
+  },
+  {
+   "name": "DACIA",
+   "total": 53176.0,
+   "bev": 7651.0,
+   "bev_share_own": 14.4
+  },
+  {
+   "name": "JEEP",
+   "total": 8777.0,
+   "bev": 1211.0,
+   "bev_share_own": 13.8
+  },
+  {
+   "name": "TOYOTA",
+   "total": 50022.0,
+   "bev": 6871.0,
+   "bev_share_own": 13.7
+  },
+  {
+   "name": "MAZDA",
+   "total": 36083.0,
+   "bev": 4415.0,
+   "bev_share_own": 12.2
+  },
+  {
+   "name": "MITSUBISHI",
+   "total": 9529.0,
+   "bev": 1043.0,
+   "bev_share_own": 10.9
+  },
+  {
+   "name": "SUZUKI",
+   "total": 16371.0,
+   "bev": 1296.0,
+   "bev_share_own": 7.9
+  },
+  {
+   "name": "HONDA",
+   "total": 6128.0,
+   "bev": 55.0,
+   "bev_share_own": 0.9
+  },
+  {
+   "name": "LAND ROVER",
+   "total": 10797.0,
+   "bev": 0.0,
+   "bev_share_own": 0.0
+  }
+ ],
+ "bavaria_vs_germany": [
+  {
+   "name": "Deutschland",
+   "year": 2026,
+   "bev_share": 27.2
+  },
+  {
+   "name": "Bayern",
+   "year": 2026,
+   "bev_share": 26.6
+  },
+  {
+   "name": "Bayern",
+   "year": 2025,
+   "bev_share": 17.3
+  },
+  {
+   "name": "Deutschland",
+   "year": 2025,
+   "bev_share": 18.1
+  }
+ ]
+}
